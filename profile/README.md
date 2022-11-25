@@ -101,6 +101,52 @@ order
 
 # 🦄 2.54NFT Marketplace
 
+## NFT Marketplace powered by the 1inch Limit Order Protocol 
+
+The most innovative and flexible limit order functionality now for NFTs.
+
+### Summary
+
+2.54NFT marketplace utilizes the 1inch Limit Order Protocol (LOP) to give participants an advanced trading experience. On the other hand, our order book is aggregated from marketplaces across many ecosystems, providing traders with a rich and lively NFT marketplace. 
+
+### Problem
+
+1) Current NFT Marketplaces only support Buy, Sell, and Offer features without the more advanced trading strategies.
+2) Current NFT marketplaces provide poor support for gas optimizations and off-chain signatures.
+3) NFT Marketplaces face a lack of liquidity.
+
+### Solution
+
+- 1inch LOP allows Conditional Orders and P2P trading for flexibility and maximum profit from trading operations.
+- The 1inch LOP charges no fees for supported tokens via the support of off-chain signatures (i.e. via NFTs that support ERC4494)
+- 2.54NFT is multi-chain with orders coming from a variety of marketplaces across the ecosystem and no-fee P2P trading. Traders can also explore orders in the 1inch LOP.
+
+### FAQs
+
+What chains are currently supported?
+- The immediate focus is to be EVM-chains compatible. The longer-term focus would be to make it compatible with the broader ecosystem of different execution layers.
+
+Is 2.54NFT Marketplace open-sourced?
+- 2.54NFT Marketplace is built on top of our Marketplate Labs product, which is a boilerplate for NFT marketplace. Now the users can build their own NFT marketplace for their NFT drop, collection, or in-game NFT marketplace with the built-in Limit Order Protocol from 1inch.
+
+Is 2.54NFT Marketplace sustainable?
+- 1inch LOP powerful API supports creating sell orders with zero gas and it charges no fee, making it extremely efficient in terms of gas.
+
+How do we solve the NFT liquidity problem?
+- 1inch LOP allows P2P orders, which could increase liquidity
+- Orders are aggregated from many marketplaces
+ 
+  - OpenSea
+  - LooksRare
+  - X2Y2
+  - Sudoswap
+
+Is the off-chain order book decentralized?
+- We use a P2P network of nodes sharing the signed orders via decentralized storage settlement.
+ 
+What is the 2.54NFT Marketplace fee structure?
+- 2.54NFT charges no fee to trade at this point.
+
 
 <!--
 

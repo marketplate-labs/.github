@@ -1,4 +1,12 @@
-# Marketplate Labs 
+# 🎴 Marketplate Labs 
+
+## Introduction
+
+We are currently building 2 projects.
+- Marketplate
+- 2.54NFT Marketplace
+
+# 🧱 Marketplate
 
 ## Boilerplate for in-game marketplaces
 
@@ -84,6 +92,15 @@ liquidity available.
 How do we decentralize an off-chain orderbook?
 - We will use a P2P network of nodes sharing the signed
 order
+
+### Product Roadmap
+
+- [ ] Arbitrary chain support
+
+----
+
+# 🦄 2.54NFT Marketplace
+
 
 <!--
 
